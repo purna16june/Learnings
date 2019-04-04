@@ -1,0 +1,7 @@
+Arrays are collection of  similar data types
+
+Advantages:
+Arrays are strongly typed
+Disadvantages:
+* Arrays can not grow in size once initialised 
+* Have to relay on integral indexes to store and retrive the elements 
